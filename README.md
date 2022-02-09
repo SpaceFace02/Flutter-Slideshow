@@ -1,4 +1,4 @@
-# Flutter Slideshow
+## Flutter Slideshow
 
 ### Made a slideshow in Flutter. Also added tag filtering.
 
